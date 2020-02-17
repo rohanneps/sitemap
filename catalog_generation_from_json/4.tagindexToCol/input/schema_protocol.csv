@@ -1,0 +1,12 @@
+tag,index,col_name,attr_name,attr_value
+meta,,Price(meta),property,og:price:amount
+,,Price(itemprop),itemprop,price
+meta,,Price Currency,property,og:price:currency
+h1,,Item Name(itemprop),itemprop,name
+meta,,Item Name(meta),property,og:title
+meta,,Image Url,property,og:image
+meta,,Description,property,og:description
+meta,,Meta Description,name,description
+meta,,Meta Keyword,name,keyword
+meta,,Meta Title,name,title
+,,SKU,itemprop,sku

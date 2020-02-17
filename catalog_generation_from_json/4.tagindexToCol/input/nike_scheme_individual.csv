@@ -1,0 +1,8 @@
+tag,index,col_name,attr_name,attr_value,text_like
+div,,Price,data-test,product-price,
+h1,,Product Name,id,pdp_product_title,
+h2,,Brand,data-test,product-sub-title,
+li,,Style,,,Style:
+img,,Image,id,pdp_6up-hero,
+span,,Has_Size,class,sizeHeader,
+li,,Color,,,Shown:

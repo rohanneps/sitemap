@@ -1,0 +1,5 @@
+tag,index,col_name,attr_name,attr_value
+h1,,Item Name,class,product-title
+p,,SKU,class,item-number
+span,,Price,class,price-value
+div,,Description,class,tmp-prod-details
